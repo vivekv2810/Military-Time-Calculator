@@ -37,3 +37,5 @@ The Military Time Calculator uses straightforward algorithms to perform time con
   - Output: 02:30 PM
 
 ## Screenshots :-
+
+![image](https://github.com/user-attachments/assets/ed4f8a01-b1b0-41b3-9054-4d6cafc1c59f)
